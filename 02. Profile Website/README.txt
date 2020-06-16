@@ -1,0 +1,2 @@
+-- Aqui vou organizar minhas ideias para montar um site 'profile'
+-- Nele vou incluir meu CV digital, junto com projetos que irei me dedicar
